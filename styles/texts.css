@@ -1,0 +1,10 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.nameHero{
+    color:white;
+    font-size: 17px;
+    font-weight: 900;
+    cursor: pointer;
+}
